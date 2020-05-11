@@ -1,4 +1,4 @@
-# BI Self-Service Solution for Some Client
+# Tableau BI Self-Service Solution for Some Client
 
 This solution was built so that some VPs could access Tableau reports from outside of the network. They wanted to be able to use the `box.com` app and have all of their scorecards, metrics, and reports in one folder in a form of PDF documents. This also allowed to save on Tableau licensing costs.
 
